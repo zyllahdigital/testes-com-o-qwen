@@ -1,0 +1,259 @@
+Listagem de caminhos de pasta
+O n£mero de sÇrie do volume Ç F441-0DDF
+C:.
+|   Claude.md.md
+|   estrutura.txt
+|   Sem t°tulo.canvas
+|   validacao-manus.md
+|   
++---.obsidian
+|       app.json
+|       appearance.json
+|       core-plugins.json
+|       graph.json
+|       workspace.json
+|       
++---03-CONTEXT
+|       estrategia.md.md
+|       icp.md.md
+|       tom-de-voz.md.md
+|       
++---04-SKILLS
++---05-PROJECTS
+|   \---nome-do-cliente
++---06-CODE
+|   \---ZYLLAH
+|       +---.claude
+|       |       settings.local.json
+|       |       
+|       +---01_MARCA
+|       |   +---BRANDBOOK
+|       |   |       zyllah_brandbook.md
+|       |   |       
+|       |   +---DOCS
+|       |   |       guia_sessao_cliente.md
+|       |   |       index.md
+|       |   |       zyllah_relatorio_resumido_tudo_mar_ate_3abr2025.md
+|       |   |       
+|       |   \---REFERENCIAS_VISUAIS
+|       |       +---CONTEÈDO
+|       |       |       zyllah_calendario.md
+|       |       |       zyllah_conteudo_instagram.md
+|       |       |       zyllah_conteudo_linkedin.md
+|       |       |       zyllah_docs_producao.md
+|       |       |       
+|       |       +---ESTRATêGIA
+|       |       |       Observaá‰es de planejamento Code Opus Max 16 abril 2026.md
+|       |       |       zyllah_concorrencia_seo.md
+|       |       |       zyllah_faq_estrategico.md
+|       |       |       zyllah_ideia_inicial_de_hub.md
+|       |       |       zyllah_jornada_cliente_ramos.md
+|       |       |       zyllah_mapa_processos_arquitetura.md
+|       |       |       zyllah_modelo_remoto.md
+|       |       |       zyllah_raciocinio.md
+|       |       |       zyllah_stack_tecnico_7_papeis.md
+|       |       |       
+|       |       +---FERRAMENTAS
+|       |       |       gerador_apresentacao_zyllah.md
+|       |       |       gerador_prompt.md
+|       |       |       plano_producao.md
+|       |       |       prompts_gemini_gerar_boas_fotos.md
+|       |       |       
+|       |       +---ONBOARDING_CLIENTE
+|       |       |       TEMPLATE_formulario_cliente.md
+|       |       |       TEMPLATE_mensagem_pre_sessao.md
+|       |       |       zyllah_briefing.md
+|       |       |       zyllah_msg_sessao_48h.md
+|       |       |       
+|       |       +---PRODUTO
+|       |       |       zyllah_flow_rascunho.md
+|       |       |       zyllah_nexa_ads.md
+|       |       |       zyllah_produto_perpetuo.md
+|       |       |       zyllah_vendedor_indicacao.md
+|       |       |       
+|       |       \---VENDAS
+|       |               zyllah_objecoes.md
+|       |               
+|       +---02_ESTRATEGIA
+|       |   |   estrategia.md
+|       |   |   icp.md
+|       |   |   planos.md
+|       |   |   prospects.md
+|       |   |   tom-de-voz.md
+|       |   |   
+|       |   +---ANALISES
+|       |   |       An†lise de Custo-Benef°cio_ Zyllah Digital.md
+|       |   |       An†lise de Investimento_ Plano Autoridade (R$ 4.500,00).md
+|       |   |       An†lise de Presenáa Digital_ Zyllah Digital.md
+|       |   |       An†lise TÇcnica_ A Zyllah resolve seus problemas_.md
+|       |   |       An†lise_ O Uso do Claude Pro na Zyllah Digital.md
+|       |   |       ARQUITETURA_PASTAS.md
+|       |   |       Comparativo_ Agància de Volume vs. Agància Exclusiva (Zyllah).md
+|       |   |       relatorio_metricas_semana_17_de_abril.md
+|       |   |       Rescis∆o ap¢s 1 ano_ O que acontece com sua presenáa digital_.md
+|       |   |       validacao_posicionamento_manus.md
+|       |   |       ZYLLAH_LINKS.md
+|       |   |       Zyllah_Relatorio_Performance_07abr2026.md
+|       |   |       
+|       |   +---CLAUDE
+|       |   |       encantarys-relatorio-sessao2.md
+|       |   |       INSTRUCOES_PROJETO_v3.md
+|       |   |       relatorio_sessao_01abr.md
+|       |   |       relatorio_sessao_03abr.md
+|       |   |       relatorio_sessao_04mar.md
+|       |   |       relatorio_sessao_08mar.md
+|       |   |       relatorio_sessao_08_09abr.md
+|       |   |       relatorio_sessao_16abr.md
+|       |   |       relatorio_sessao_16mar.md
+|       |   |       relatorio_sessao_17mar.md
+|       |   |       relatorio_sessao_19mar.md
+|       |   |       relatorio_sessao_24mar noite.md
+|       |   |       relatorio_sessao_24mar.md
+|       |   |       relatorio_sessao_28mar.md
+|       |   |       relatorio_sessao_28mar_fim.md
+|       |   |       relatorio_sessao_28mar_meio.md
+|       |   |       relatorio_sessao_31mar.md
+|       |   |       relatorio_sessao_31mar_fim.md
+|       |   |       zyllah_infraestrutura_automacao.md
+|       |   |       zyllah_relatorio_sessao_05mar.md
+|       |   |       
+|       |   +---PROCESSOS
+|       |   |       An†lise Gemini.txt
+|       |   |       manual_zyllah_hub_21_abril.docx
+|       |   |       prospector_manus_prompt.md
+|       |   |       script_conector_hub.gs
+|       |   |       zyllah_briefing_rapido.html
+|       |   |       zyllah_hub.html
+|       |   |       zyllah_plano_acao_priorizado (tempor†rio - an†lise contratos).html
+|       |   |       zyllah_prospeccao_25leads.docx
+|       |   |       zyllah_schema_gatilhos.md
+|       |   |       zyllah_sistema_operacional_semanal.md
+|       |   |       
+|       |   \---RELATORIOS
+|       |           31 de maráo - Relat¢rio_de_Atividades_da_Company_Page_Zyllah_Digital.pdf
+|       |           31 de maráo - Relat¢rio_de_Atividades_do_Instagram_Zyllah_Digital.pdf
+|       |           31 de maráo - Relat¢rio_de_Atividades_do_LinkedIn_Guilherme_Caetano.pdf
+|       |           
+|       +---03_VENDAS
+|       |   |   objecoes.md
+|       |   |   script-reuniao.md
+|       |   |   zyllah_vendas.html
+|       |   |   zyllah_vendas.md
+|       |   |   
+|       |   +---PROSPECCAO
+|       |   |       1_dra_teste_silva_desconfiada.html
+|       |   |       prompt_pesquisa_prospect.html
+|       |   |       zyllah_apresentacao_ana_livia.html
+|       |   |       
+|       |   \---SCRIPTS
+|       |           PRIMEIRO ROLEPLAY SCRIPT DE VENDAS.txt
+|       |           prospeccao_nova_friburgo.html
+|       |           prospeccao_nova_friburgo.md
+|       |           zyllah_script_reuniao.html
+|       |           zyllah_script_reuniao.md
+|       |           
+|       +---04_CONTEUDO
+|       |   |   zyllah_producao.html
+|       |   |   zyllah_producao.md
+|       |   |   
+|       |   +---ARTES
+|       |   |       arte_quarta_24mar.html
+|       |   |       asset_tela_erros_cfm.html
+|       |   |       asset_tela_feeds_genericos.html
+|       |   |       Capa Linkedin Guilherme Zyllah.svg
+|       |   |       cardiologista.html
+|       |   |       clinica_lumiere_brandbook_fict°cio_para_postagem.html
+|       |   |       dermatologista.html
+|       |   |       estrategista.html
+|       |   |       ginecologista.html
+|       |   |       nutrologista.html
+|       |   |       ortopedista.html
+|       |   |       psiquiatra.html
+|       |   |       tiktok_capa_perfil.html
+|       |   |       tiktok_foto_perfil.html
+|       |   |       zyllah_gerador_slides.html
+|       |   |       
+|       |   +---CALENDARIO
+|       |   +---PLANEJAMENTO
+|       |   |       zyllah_calendario_abril_s2s3.html
+|       |   |       
+|       |   +---POSTS
+|       |   |       bastidor_postits_9x16.html
+|       |   |       card_E1_seguidores_16x9.html
+|       |   |       card_E1_seguidores_9x16.html
+|       |   |       card_E2_consistencia_16x9.html
+|       |   |       card_E2_consistencia_9x16.html
+|       |   |       card_E3_cfm_sancao_16x9.html
+|       |   |       card_E3_cfm_sancao_9x16.html
+|       |   |       card_E4_ciclo_16x9.html
+|       |   |       card_E4_ciclo_9x16.html
+|       |   |       card_E5_cfm_resolucao_16x9.html
+|       |   |       card_E5_cfm_resolucao_9x16.html
+|       |   |       card_E6_presenca_16x9.html
+|       |   |       card_E6_presenca_9x16.html
+|       |   |       card_E7_curtidas_16x9.html
+|       |   |       card_E7_curtidas_9x16.html
+|       |   |       planer.html
+|       |   |       yt_s2_thumb_02_feed.html
+|       |   |       
+|       |   +---REFERENCIAS
+|       |   |       prompt_conversao_9x16.html
+|       |   |       zyllah_referencia_conteudo_social.html
+|       |   |       zyllah_referencia_conteudo_social.md
+|       |   |       
+|       |   \---SERIES
+|       +---06_CLIENTES
+|       |   \---ENCANTARYS
+|       |       |   diagnostico_inicial_encantarys.html
+|       |       |   
+|       |       +---BRANDBOOK
+|       |       |       encantarys_brandbook.html
+|       |       |       encantarys_brandbook.md
+|       |       |       
+|       |       \---RELATORIOS
+|       |               encantarys-relatorio-validacao-zyllah.html
+|       |               encantarys-relatorio-validacao-zyllah.md
+|       |               
+|       +---07_ONBOARDING
+|       |   \---JUR÷DICO
+|       |       |   zyllah_mapa_riscos_contratuais.html
+|       |       |   zyllah_mapa_riscos_contratuais.md
+|       |       |   
+|       |       \---CONTRATOS
+|       |               zyllah_contratos.html
+|       |               zyllah_contratos.md
+|       |               
+|       \---08_TECNICO
+|           |   cloudia.md
+|           |   contratos.md
+|           |   financeiro.md
+|           |   
+|           +---CLOUDIA
+|           |       Documento Cloudia.pdf
+|           |       
+|           +---DOCS
+|           +---FLOW
+|           |       calculadora_custo_bot_agendamento.html
+|           |       MAIS DETALHES.md
+|           |       PROMPT_CLAUDE_CODE.md
+|           |       prompt_sistema_bot_agendamento.md
+|           |       README.md
+|           |       
+|           \---SITE
+|                   CNAME
+|                   sitemap.xml
+|                   
++---07-OUTPUT
++---@Claude
+|   |   memoria.md.md
+|   |   
+|   +---logs
+|   \---sessoes
++---contexto
+|       01_permanente.md.md
+|       02_evolutivo.md.md
+|       03_transitorio.md.md
+|       
++---documentos
++---fundador
+\---inbox
